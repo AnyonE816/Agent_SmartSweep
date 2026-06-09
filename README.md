@@ -1,4 +1,4 @@
-# 智扫通：扫地机器人智能客服系统
+# SmartSweep智扫通-扫地机器人智能客服系统
 
 基于 RAG + React Agent 架构的智能客服系统，专为扫地机器人产品打造，支持知识库问答、用户数据查询、个性化报告生成等功能。
 
@@ -68,7 +68,6 @@ SmartSweep/
 ├── data/
 ├── app.py
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
@@ -92,8 +91,8 @@ SmartSweep/
 ## 快速开始
 ```bash
 # 1. 克隆项目
-git clone https://github.com/yourname/Agent_SmartSweep.git
-cd Agent_SmartSweep
+git clone https://github.com/yourname/SmartSweep.git
+cd SmartSweep
 
 # 2. 安装依赖
 pip install -r requirements.txt
